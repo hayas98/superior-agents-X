@@ -23,7 +23,7 @@
 
 # Superior Agent
 
-This project is a trading and marketing agent that interacts with various APIs to perform trading operations and manage marketing strategies. It utilizes FastAPI for the web server, Docker for container management, and various libraries for interacting with blockchain networks and social media platforms.
+This project is a Superior agent that interacts with various APIs to perform trading operations and manage marketing strategies. It utilizes FastAPI for the web server, Docker for container management, and various libraries for interacting with blockchain networks and social media platforms.
 
 ## Features
 
